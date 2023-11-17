@@ -10,8 +10,8 @@ Repositório para registrar progresso nos Cursos da DIO. - Desafio de Projeto
 
 #👨‍💻 *Programação*
 
-***Calculadora***
-index.html
+***Calculadora simples***
+index.html / calculadora.js
 
 
 
